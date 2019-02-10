@@ -1,6 +1,6 @@
 def roll_call_dwarves(array)
   dwarf.each do |dwarf|
-  turn_into_frog(student)
+  roll_call_dwarves(dwarf)
 end
 end
 
